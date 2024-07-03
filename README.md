@@ -90,23 +90,10 @@ O relatório de teste deve incluir:
 
 ---
 
-### Dicas para Conclusão
-
+### Dicas para Abordar o Projeto 🌟
 - **Foco nos Detalhes:** Certifique-se de que cada funcionalidade é testada minuciosamente.
 - **Documentação Clara:** Mantenha sua documentação clara e organizada para facilitar a leitura e a compreensão.
 - **Teste em Diferentes Cenários:** Teste o site em diferentes navegadores e dispositivos para garantir a robustez.
-
-### Dicas para Abordar o Projeto 🌟
-- **Crie um Fork desse Repositório.**
-- **Criar do Zero:** É fundamental que o projeto seja desenvolvido completamente do zero, demonstrando suas habilidades e criatividade desde o início.
-- **Teste o Pipeline localmente antes de subir para o GitHub para garantir que está funcionando corretamente.**
-
-### Critérios de Avaliação:
-1. **Configuração do Pipeline:** O pipeline de CI/CD está configurado corretamente e automatiza os processos de build, testes e deploy?
-2. **Qualidade do Código:** O código da aplicação e os arquivos de configuração estão bem estruturados e documentados?
-3. **Execução dos Testes:** Os testes são executados automaticamente e verificam a funcionalidade da aplicação?
-4. **Deploy Automático:** A aplicação é automaticamente implantada em uma plataforma de hospedagem?
-5. **Documentação:** A documentação é clara e detalha o processo de configuração e execução do pipeline?
 
 ### Não Queremos 🚫
 - Descobrir que o candidato não foi quem realizou o teste.
@@ -115,21 +102,6 @@ O relatório de teste deve incluir:
 
 ### Prazo ⏳
 A data máxima para entrega das trilhas foi removida, permitindo que as pessoas entreguem conforme sua disponibilidade. No entanto, ainda é necessário concluir a trilha com sucesso para ser inserido em uma equipe.
-
-## Checklist de Configuração do Ambiente de Trabalho
-
-**Ferramentas e Plataformas Utilizadas:**
-- **Repositório Git:** GitHub
-- **Integração Contínua/Entrega Contínua:** GitHub Actions
-- **Hospedagem:** Heroku, Netlify, Vercel ou GitHub Pages
-
-**Configuração do Ambiente:**
-1. **Criar Conta no GitHub:** Se você ainda não tem uma conta, crie uma conta gratuita no GitHub.
-2. **Configurar GitHub Actions:**
-   - Crie workflows de CI/CD no diretório `.github/workflows/` do repositório.
-3. **Deploy:**
-   - Configure uma conta na plataforma de hospedagem escolhida.
-   - Integre o deploy com o workflow do GitHub Actions.
 
 ### Instruções de Entrega: 📬
 Após finalizar o projeto, publique-o em uma URL pública (por exemplo, Vercel, Netlify, GitHub Pages, etc.) e hospede o seu servidor na nuvem. Use serviços que ofereçam uso gratiuto por um período, como a AWS e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  

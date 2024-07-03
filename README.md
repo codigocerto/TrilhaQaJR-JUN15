@@ -1,10 +1,7 @@
 ![Código Certo Coders](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
-# 📚 Trilha Inicial DevOps Jr
-Este projeto tem como objetivo principal introduzir e praticar conceitos fundamentais de DevOps Jr através da implementação de um pipeline de CI/CD para uma aplicação web simples. Os principais objetivos são:
-
-**Objetivo:**
-Desenvolver um plano de teste simples para o site da comunidade [Código Certo Coders](https://www.codigocertocoders.com.br/). Este desafio ajudará a avaliar o conhecimento básico em testes de software, incluindo planejamento, execução e reporte de testes.
+# 📚 Trilha Inicial Quality Assurance Jr
+Este projeto tem como objetivo principal desenvolver um plano de teste simples para o site da comunidade [Código Certo Coders](https://www.codigocertocoders.com.br/). Este desafio ajudará a avaliar o conhecimento básico em testes de software, incluindo planejamento, execução e reporte de testes.
 
 ---
 

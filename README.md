@@ -9,7 +9,7 @@ Este projeto tem como objetivo principal desenvolver um plano de teste simples p
 
 O site da comunidade Código Certo Coders oferece aos usuários as seguintes funcionalidades:
 1. Visualizar a página inicial com informações sobre a comunidade.
-2. Navegar para a página de cursos e visualizar a lista de cursos disponíveis.
+2. Navegar para a página de vagas e visualizar a lista de vagas disponíveis.
 3. Inscrever-se em um curso.
 4. Acessar a página de contato e enviar uma mensagem.
 
@@ -17,10 +17,10 @@ O site da comunidade Código Certo Coders oferece aos usuários as seguintes fun
 
 1. **Página Inicial:**
    - Exibir informações sobre a comunidade.
-   - Links de navegação para outras páginas (Cursos, Contato).
+   - Links de navegação para outras páginas (Vagas, Eventos, Contato).
 
-2. **Página de Cursos:**
-   - Exibir uma lista de cursos com nome, descrição e instrutor.
+2. **Página de Vagas:**
+   - Exibir uma lista de vagas com nome, descrição e instrutor.
    - Botão "Inscrever-se" para cada curso.
 
 3. **Inscrição em Curso:**
@@ -41,7 +41,7 @@ Verificar se o site Código Certo Coders funciona conforme os requisitos especif
 #### 2. Escopo do Teste
 Os testes serão realizados nas seguintes funcionalidades:
 - Visualização da página inicial
-- Navegação para a página de cursos e visualização dos cursos
+- Navegação para a página de vagas e visualização dos vagas
 - Inscrição em um curso
 - Navegação para a página de contato e envio de mensagem
 
@@ -59,8 +59,8 @@ Os testes serão realizados nas seguintes funcionalidades:
 | ID  | Caso de Teste                                      | Passos                                                                                      | Resultado Esperado                                                  |
 |-----|----------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | 1   | Visualizar Página Inicial                          | 1. Acessar a página inicial. <br> 2. Verificar as informações exibidas.                      | As informações sobre a comunidade devem ser exibidas corretamente.  |
-| 2   | Navegar para a Página de Cursos e Visualizar Cursos | 1. Acessar a página inicial. <br> 2. Clicar no link para a página de cursos. <br> 3. Verificar a lista de cursos. | A lista de cursos deve ser exibida com nome, descrição e instrutor. |
-| 3   | Inscrever-se em um Curso                           | 1. Acessar a página de cursos. <br> 2. Clicar em "Inscrever-se" para um curso. <br> 3. Preencher o formulário de inscrição. <br> 4. Clicar em "Enviar". | O formulário deve ser enviado e uma confirmação deve ser exibida.  |
+| 2   | Navegar para a Página de Vagas e Visualizar Vagas | 1. Acessar a página inicial. <br> 2. Clicar no link para a página de vagas. <br> 3. Verificar a lista de vagas. | A lista de vagas deve ser exibida com nome, descrição e instrutor. |
+| 3   | Inscrever-se em um Curso                           | 1. Acessar a página de vagas. <br> 2. Clicar em "Inscrever-se" para um curso. <br> 3. Preencher o formulário de inscrição. <br> 4. Clicar em "Enviar". | O formulário deve ser enviado e uma confirmação deve ser exibida.  |
 | 4   | Navegar para a Página de Contato e Enviar Mensagem | 1. Acessar a página inicial. <br> 2. Clicar no link para a página de contato. <br> 3. Preencher o formulário de contato. <br> 4. Clicar em "Enviar". | O formulário deve ser enviado e uma confirmação deve ser exibida.  |
 
 #### 6. Critérios de Aceitação

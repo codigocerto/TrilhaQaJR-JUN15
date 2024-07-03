@@ -54,7 +54,7 @@ Os testes serão realizados nas seguintes funcionalidades:
 - Navegadores: Chrome, Firefox, Safari
 - Ferramentas: Ferramentas de teste manual, como TestRail ou Excel para gerenciar casos de teste, e ferramentas de captura de tela/vídeo para documentar os testes.
 
-#### 5. Casos de Teste
+#### 5. Casos de Teste (Exemplo)
 
 | ID  | Caso de Teste                                      | Passos                                                                                      | Resultado Esperado                                                  |
 |-----|----------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------|

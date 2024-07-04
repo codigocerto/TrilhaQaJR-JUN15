@@ -61,7 +61,6 @@ Os testes serão realizados nas seguintes funcionalidades:
 | 1   | Visualizar Página Inicial                          | 1. Acessar a página inicial. <br> 2. Verificar as informações exibidas.                      | As informações sobre a comunidade devem ser exibidas corretamente.  |
 | 2   | Navegar para a Página de Vagas e Visualizar Vagas | 1. Acessar a página inicial. <br> 2. Clicar no link para a página de vagas. <br> 3. Verificar a lista de vagas. | A lista de vagas deve ser exibida com nome, descrição e instrutor. |
 | 3   | Inscrever-se em um Curso                           | 1. Acessar a página de vagas. <br> 2. Clicar em "Inscrever-se" para um curso. <br> 3. Preencher o formulário de inscrição. <br> 4. Clicar em "Enviar". | O formulário deve ser enviado e uma confirmação deve ser exibida.  |
-| 4   | Navegar para a Página de Contato e Enviar Mensagem | 1. Acessar a página inicial. <br> 2. Clicar no link para a página de contato. <br> 3. Preencher o formulário de contato. <br> 4. Clicar em "Enviar". | O formulário deve ser enviado e uma confirmação deve ser exibida.  |
 
 #### 6. Critérios de Aceitação
 - Todas as funcionalidades devem estar implementadas conforme os requisitos.

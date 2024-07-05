@@ -20,16 +20,16 @@ O site da comunidade Código Certo Coders oferece aos usuários as seguintes fun
    - Links de navegação para outras páginas (Vagas, Eventos, Contato).
 
 2. **Página de Vagas:**
-   - Exibir uma lista de vagas com nome, descrição e instrutor.
-   - Botão "Inscrever-se" para cada curso.
+   - Exibir uma lista de vagas com nome, descrição, disponibilidade de horários.
+   - Botão "Quero Participar" para cada vaga.
 
-3. **Inscrição em Curso:**
-   - Formulário com campos para nome, e-mail e curso selecionado.
+3. **Inscrição em Vaga:**
+   - Formulário com campos para nome, sobrenome, e-mail, telefone e nível de experiencia.
    - Botão "Enviar".
 
-4. **Página de Contato:**
-   - Formulário com campos para nome, e-mail e mensagem.
-   - Botão "Enviar".
+4. **Página de Perfil:**
+   - Campos para edição, e-mail e mensagem.
+   - Botão "Atualizar".
 
 ---
 
@@ -40,15 +40,19 @@ Verificar se o site Código Certo Coders funciona conforme os requisitos especif
 
 #### 2. Escopo do Teste
 Os testes serão realizados nas seguintes funcionalidades:
-- Visualização da página inicial
-- Navegação para a página de vagas e visualização dos vagas
-- Inscrição em um curso
-- Navegação para a página de contato e envio de mensagem
+- Visualização da Página Inicial
+- Navegação para a Página de Vagas e Visualização dos Vagas
+- Inscrição em uma Vaga de Voluntariado
+- Navegação para a Página de Sobre
+- Recebimento de E-mails após Inscrição
+- Cadastro de Usuário
+- Inscrição em Eventos
 
 #### 3. Tipos de Teste
 - Teste Funcional
 - Teste de Usabilidade
 - Teste de Interface
+- Teste de Responsividade
 
 #### 4. Ambiente de Teste
 - Navegadores: Chrome, Firefox, Safari
@@ -90,6 +94,7 @@ O relatório de teste deve incluir:
 ---
 
 ### Dicas para Abordar o Projeto 🌟
+- **Crie um Fork desse Repositório.**
 - **Foco nos Detalhes:** Certifique-se de que cada funcionalidade é testada minuciosamente.
 - **Documentação Clara:** Mantenha sua documentação clara e organizada para facilitar a leitura e a compreensão.
 - **Teste em Diferentes Cenários:** Teste o site em diferentes navegadores e dispositivos para garantir a robustez.

@@ -7,11 +7,7 @@ Este projeto tem como objetivo principal desenvolver um plano de teste simples p
 
 ### Descrição do Site
 
-O site da comunidade Código Certo Coders oferece aos usuários as seguintes funcionalidades:
-1. Visualizar a página inicial com informações sobre a comunidade.
-2. Navegar para a página de vagas e visualizar a lista de vagas disponíveis.
-3. Inscrever-se em um curso.
-4. Acessar a página de contato e enviar uma mensagem.
+O site da comunidade Código Certo Coders oferece aos usuários as diversas funcionalidades
 
 ### Requisitos Funcionais
 

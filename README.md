@@ -104,7 +104,7 @@ O relatório de teste deve incluir:
 A data máxima para entrega das trilhas foi removida, permitindo que as pessoas entreguem conforme sua disponibilidade. No entanto, ainda é necessário concluir a trilha com sucesso para ser inserido em uma equipe.
 
 ### Instruções de Entrega: 📬
-Após finalizar o projeto, preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  
+Após finalizar o projeto, preencha o [Formulário](https://forms.gle/Nmyjwna23VW9rM7m9):  
 
 ---
 
@@ -114,9 +114,9 @@ Achou esse projeto inicial simples? Eleve ainda mais! Estamos em busca de mentes
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
+- [Discord](discord.gg/y3GHwPvsMK)
 - [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
+- [LinkedIn](https://www.linkedin.com/company/codigocertocoders/)
   
 🌐 **Contato:**
 - Email: codigocertocoders@gmail.com
